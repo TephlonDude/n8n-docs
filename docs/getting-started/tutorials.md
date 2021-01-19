@@ -2,6 +2,7 @@
 
 ## Blogposts
 
+- [2021: The Year to Automate the New You with n8n ☀️](https://n8n.io/blog/2021-the-year-to-automate-the-new-you-with-n8n/)
 - [Automating Conference Organization Processes with n8n](https://medium.com/n8n-io/automating-conference-organization-processes-with-n8n-ab8f64a7a520)
 - [Automate Designs with Bannerbear and n8n](https://medium.com/n8n-io/automate-designs-with-bannerbear-and-n8n-2b64c94b54db)
 - [Creating Custom Incident Response Workflows with n8n 🚨](https://medium.com/n8n-io/creating-custom-incident-response-workflows-with-n8n-9baef0bbedb9)
@@ -32,4 +33,4 @@
 - [n8n basics 2/3 - Simple Workflow](https://www.youtube.com/watch?v=ovlxledZfM4)
 - [n8n basics 3/3 - Transforming JSON](https://www.youtube.com/watch?v=wGAEAcfwV8w)
 - [n8n nodes - Using Google Sheets and Google API](https://www.youtube.com/watch?v=KFqx8OmkqVE)
-- [Raspberry Pi as a local server for self-hosting applications like n8n](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)	
+- [Raspberry Pi as a local server for self-hosting applications like n8n](https://cri.dev/posts/2020-09-12-Raspberry-Pi-as-a-local-server-for-self-hosting-applications/)
