@@ -54,3 +54,7 @@ The start node exists by default when you create a new workflow.
 4. Enter a subject for your message in the *Subject* field.
 5. Enter your message in the *Text* field.
 6. Click on *Execute Node* to run the workflow.
+
+## Further Reading
+
+- [2021: The Year to Automate the New You with n8n ☀️](https://n8n.io/blog/2021-the-year-to-automate-the-new-you-with-n8n/)

@@ -111,4 +111,5 @@ return [
 
 ## Further Reading
 
+- [2021: The Year to Automate the New You with n8n ☀️](https://n8n.io/blog/2021-the-year-to-automate-the-new-you-with-n8n/)
 - [Smart Factory Automation using IoT and Sensor Data with n8n 🏭](https://medium.com/n8n-io/smart-factory-automation-using-iot-and-sensor-data-with-n8n-27675de9943b)

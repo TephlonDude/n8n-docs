@@ -111,3 +111,7 @@ Adding this node here is optional, as the absence of this node won't make a diff
 :::
 
 ![Using the NoOp node](./NoOp_node.png)
+
+## Further Reading
+
+- [2021: The Year to Automate the New You with n8n ☀️](https://n8n.io/blog/2021-the-year-to-automate-the-new-you-with-n8n/)

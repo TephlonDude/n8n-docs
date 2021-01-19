@@ -91,3 +91,7 @@ This node returns the information of the activity that we created using the Stra
 In the screenshot below, you will notice that the node returns the information of the activity that we specified in this node.
 
 ![Using the Strava node to get an issue](./Strava2_node.png)
+
+## Further Reading
+
+- [2021: The Year to Automate the New You with n8n ☀️](https://n8n.io/blog/2021-the-year-to-automate-the-new-you-with-n8n/)
